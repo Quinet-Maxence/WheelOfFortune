@@ -1,0 +1,4 @@
+C:\Users\Sylf\Desktop\Duty\Ton projet tu comprends\group16\WheelOfFortune\WheelOfFortune\Debug\WheelOfFortune.exe
+C:\Users\Sylf\Desktop\Duty\Ton projet tu comprends\group16\WheelOfFortune\WheelOfFortune\Debug\WheelOfFortune.pdb
+C:\Users\maudq\OneDrive\Bureau\WheelOfFortune\wheel-of-fortune-implementation-in-c\WheelOfFortune\WheelOfFortune\Debug\WheelOfFortune.exe
+C:\Users\maudq\OneDrive\Bureau\WheelOfFortune\wheel-of-fortune-implementation-in-c\WheelOfFortune\WheelOfFortune\Debug\WheelOfFortune.pdb
